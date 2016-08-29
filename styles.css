@@ -1,0 +1,48 @@
+.main{
+    /*border-bottom: #333 1px solid;*/
+    padding: 120px 0;
+}
+
+.artist-header{
+    padding-bottom:20px;
+    margin-bottom: 20px;
+    border-bottom:solid 1px #333;
+}
+
+.artist-thumb{
+    width:80px;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+}
+
+.form-control{
+    border-color:#333;
+    border-style:solid;
+}
+
+.well-sm{
+    position:relative;
+    background:#E8E8E8;
+}
+
+.artist-albums .well{
+    margin-bottom:20px;
+    overflow:auto;
+    min-height:370px;
+}
+
+.album{
+    text-align: center;
+    background: #E8E8E8;
+    padding:10px 20px;
+    border: #E8E8E8 1px solid;
+}
+
+.album-thumb{
+    width: 100%;
+}
+
+.equ{
+    margin-top:60px;
+}
